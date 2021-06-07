@@ -1,6 +1,6 @@
 <h2 align="center">Seja bem-vindo ao meu GitHub :)</h2>
 
-<h3>Linguagens que eu uso nos projetos</h3>
+<h3>Linguagens que uso nos projetos</h3>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-plain.svg" height="40" width="40" style="max-width:100%;" title="JavaScript">
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/php/php-plain.svg" height="40" width="40" style="max-width:100%;" title="PHP">
