@@ -1,5 +1,5 @@
-<h2>Seja bem-vindo ao meu GitHub :)</h2>
-Aqui há projetos de JS <i class="fab fa-js"></i>
+<h2 align="center">Seja bem-vindo ao meu GitHub :)</h2>
+
 
 <!--
 **leovasc5/leovasc5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
