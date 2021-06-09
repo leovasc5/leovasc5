@@ -19,6 +19,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="40" width="40" style="max-width:100%;" title="SQL">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" height="40" width="40" style="max-width:100%;" title="Vegas Pro">
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/photoshop/photoshop-line.svg" height="40" width="40" style="max-width:100%;" title="Photoshop">
+<img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/bootstrap/bootstrap-plain.svg" height="40" width="40" style="max-width:100%;" title="Bootstrap">
+<img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/html5/html5-original.svg" height="40" width="40" style="max-width:100%;" title="HTML 5">
+<img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/css3/css3-original.svg" height="40" width="40" style="max-width:100%;" title="CSS 3">
 </p>
 
 <h3>Contato:</h3>
