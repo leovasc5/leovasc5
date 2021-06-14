@@ -1,4 +1,6 @@
 <h2 align="center">Seja bem-vindo ao meu GitHub!</h2>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leovasc5&layout=compact&hide=css,html"/>
 
 <h3>Linguagens e frameworks que uso nos projetos</h3>
 <p>
@@ -37,3 +39,5 @@
 <a href="https://www.youtube.com/channel/UCh3t0H-Den3BkEeuC4-WB2g/videos" target="_blank" title="YouTube">
   <img src="https://image.flaticon.com/icons/png/512/1384/1384060.png" height="40" width="40" style="max-width:100%;">
 </a>
+  </div>
+
