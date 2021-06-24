@@ -26,7 +26,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/css3/css3-original.svg" height="40" width="40" style="max-width:100%;" title="CSS 3">
 </p>
 
-<h3>Contato</h3>
+<h3>Contact</h3>
 <a href="https://www.linkedin.com/in/leonardo-vasconcelos-paulino-7a0b41200/" target="_blank" title="LinkedIn">
   <img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="40" width="40" style="max-width:100%;">
 </a>
