@@ -1,21 +1,21 @@
-<h2 align="center">Bem-vindo(a) ao meu GitHub!</h2>
+<h2 align="center">Welcome to my GitHub!</h2>
 <div align="center">
 
-<h3>Linguagens e frameworks que uso</h3>
+<h3>Languages and frameworks I use</h3>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-plain.svg" height="40" width="40" style="max-width:100%;" title="JavaScript">
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/php/php-plain.svg" height="40" width="40" style="max-width:100%;" title="PHP">
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/laravel/laravel-plain.svg" height="40" width="40" style="max-width:100%;" title="Laravel">
 </p>
 
-<h3>Estudando</h3>
+<h3>Studying</h3>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/python/python-plain.svg" height="40" width="40" style="max-width:100%;" title="Python">
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/java/java-original.svg" height="40" width="40" style="max-width:100%;" title="Java">
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/ionic/ionic-original.svg" height="40" width="40" style="max-width:100%;" title="Ionic">
 </p>
 
-<h3>Habilidades extras</h3>
+<h3>Extra skills</h3>
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="40" width="40" style="max-width:100%;" title="SQL">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" height="40" width="40" style="max-width:100%;" title="Vegas Pro">
