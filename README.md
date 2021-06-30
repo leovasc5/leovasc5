@@ -38,6 +38,7 @@
 </a>
 <a href="https://www.youtube.com/channel/UCh3t0H-Den3BkEeuC4-WB2g/videos" target="_blank" title="YouTube">
   <img src="https://image.flaticon.com/icons/png/512/1384/1384060.png" height="40" width="40" style="max-width:100%;">
-</a>
+</a><br>
+ ![](https://komarev.com/ghpvc/?username=leovasc5&color=green)
   </div>
 
