@@ -1,5 +1,7 @@
 <h2 align="center">Welcome to my GitHub!</h2>
+
 <div align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleovasc5&count_bg=%23000000&title_bg=%23705C5C&icon=github.svg&icon_color=%23FFFFFF&title=Visualiza%C3%A7%C3%B5es&edge_flat=false"/></a>
 
 <h3>Languages and frameworks I use</h3>
 <p>
@@ -39,6 +41,6 @@
 <a href="https://www.youtube.com/channel/UCh3t0H-Den3BkEeuC4-WB2g/videos" target="_blank" title="YouTube">
   <img src="https://image.flaticon.com/icons/png/512/1384/1384060.png" height="40" width="40" style="max-width:100%;">
 </a><br>
- ![](https://komarev.com/ghpvc/?username=leovasc5)
+
   </div>
 
