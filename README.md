@@ -1,4 +1,4 @@
-![a9ec818d8b8ea72043a3f49a81b2fc44 (1) (1)](https://user-images.githubusercontent.com/70069239/125673784-bdbf5eb8-da9d-47e8-810e-b3f048af01af.png)
+![a9ec818d8b8ea72043a3f49a81b2fc44 (1)](https://user-images.githubusercontent.com/70069239/125673993-08199334-bfba-412c-b9bf-1287c0d0f093.png)
 
 <div align="center">
 
