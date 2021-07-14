@@ -1,4 +1,4 @@
-<h2 align="center">Welcome to my GitHub!</h2>
+
 
 ![a9ec818d8b8ea72043a3f49a81b2fc44 (1)](https://user-images.githubusercontent.com/70069239/125636088-c91c7414-2f64-4418-adfd-e4ad0f09607c.png)
 
