@@ -1,7 +1,5 @@
-![a9ec818d8b8ea72043a3f49a81b2fc44 (1)](https://user-images.githubusercontent.com/70069239/125673993-08199334-bfba-412c-b9bf-1287c0d0f093.png)
-
 <div align="center">
-
+<h2>Welcome to my GitHub :)</h2>
 <h3>Languages and frameworks I use</h3>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg" height="40" width="40" style="max-width:100%;" title="Python">
