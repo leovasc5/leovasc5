@@ -10,6 +10,7 @@
 
 <h3>Studying</h3>
 <p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/django/django-original.svg" height="40" width="40" style="max-width:100%;" title="Django">
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/r/r-original.svg" height="40" width="40" style="max-width:100%;" title="R">
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/ionic/ionic-original.svg" height="40" width="40" style="max-width:100%;" title="Ionic">
 </p>
