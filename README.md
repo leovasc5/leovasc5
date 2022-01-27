@@ -36,7 +36,7 @@
   <img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="40" width="40" style="max-width:100%;">
 </a>
 <a href="https://twitter.com/leovasc5" target="_blank" title="Twitter">
-  <img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" height="40" width="40" style="max-width:100%;">
+  <img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" height="40" width="50" style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/leovasc5/" target="_blank" title="Instagram">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" height="40" width="40" style="max-width:100%;">
