@@ -33,7 +33,7 @@
 
 <h3>Contact</h3>
 <a href="https://www.linkedin.com/in/leovasc5/" target="_blank" title="LinkedIn">
-  <img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="40" width="40" style="max-width:100%;">
+  <img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" height="40" width="40" style="max-width:100%;">
 </a>
 <a href="https://twitter.com/leovasc5" target="_blank" title="Twitter">
   <img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" height="40" width="50" style="max-width:100%;">
@@ -42,7 +42,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" height="40" width="40" style="max-width:100%;">
 </a>
 <a href="https://www.youtube.com/channel/UCh3t0H-Den3BkEeuC4-WB2g/videos" target="_blank" title="YouTube">
-  <img src="https://image.flaticon.com/icons/png/512/1384/1384060.png" height="40" width="40" style="max-width:100%;">
+  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="40" width="40" style="max-width:100%;">
 </a><br><br><br><br>
  <b>Academic Account: </b><a href="https://www.github.com/leovasc5academico" target="_blank">github.com/leovasc5academico</a>
 
