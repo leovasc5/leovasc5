@@ -43,8 +43,6 @@
 </a>
 <a href="https://www.youtube.com/channel/UCh3t0H-Den3BkEeuC4-WB2g/videos" target="_blank" title="YouTube">
   <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="40" width="40" style="max-width:100%;">
-</a><br><br><br><br>
- <b>Academic Account: </b><a href="https://www.github.com/leovasc5academico" target="_blank">github.com/leovasc5academico</a>
-
+</a><br>
   </div>
 
