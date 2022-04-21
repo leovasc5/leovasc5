@@ -5,7 +5,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg" height="40" width="40" style="max-width:100%;" title="Python">
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/django/django-original.svg" height="40" width="40" style="max-width:100%;" title="Django">
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/php/php-plain.svg" height="40" width="40" style="max-width:100%;" title="PHP">
-<img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/laravel/laravel-plain.svg" height="40" width="40" style="max-width:100%;" title="Laravel">
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-plain.svg" height="40" width="40" style="max-width:100%;" title="JavaScript">
 </p>
 
@@ -25,7 +24,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/matlab/matlab-original.svg" height="40" width="40" style="max-width:100%;" title="MatLab">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" height="40" width="40" style="max-width:100%;" title="Vegas Pro">
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/photoshop/photoshop-line.svg" height="40" width="40" style="max-width:100%;" title="Photoshop">
-<img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/bootstrap/bootstrap-plain.svg" height="40" width="40" style="max-width:100%;" title="Bootstrap"><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/bootstrap/bootstrap-plain.svg" height="40" width="40" style="max-width:100%;" title="Bootstrap">
+<img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/laravel/laravel-plain.svg" height="40" width="40" style="max-width:100%;" title="Laravel"><br>
 <img src="https://img.icons8.com/material/452/git.png" height="40" width="40" style="max-width:100%;" title="Git">
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/html5/html5-original.svg" height="40" width="40" style="max-width:100%;" title="HTML 5">
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/css3/css3-original.svg" height="40" width="40" style="max-width:100%;" title="CSS 3">
