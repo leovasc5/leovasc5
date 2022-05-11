@@ -17,7 +17,8 @@
 <h3>Extra skills</h3>
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="40" width="40" style="max-width:100%;" title="C#">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="40" width="40" style="max-width:100%;" title="SQL">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="40" width="40" style="max-width:100%;" title="MySQL Workbench">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" height="40" width="40" style="max-width:100%;" title="Azure">
  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original-wordmark.svg" height="40" width="40" style="max-width:100%;" title="MongoDB">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original-wordmark.svg" height="40" width="40" style="max-width:100%;" title="Pandas">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original-wordmark.svg" height="40" width="40" style="max-width:100%;" title="Numpy"><br>
