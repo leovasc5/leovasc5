@@ -8,12 +8,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-plain.svg" height="40" width="40" style="max-width:100%;" title="JavaScript">
 </p>
 
-<h3>Studying</h3>
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/r/r-original.svg" height="40" width="40" style="max-width:100%;" title="R">
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" width="40" style="max-width:100%;" title="Microsoft SQL Server">
-</p>
-
 <h3>Extra skills</h3>
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="40" width="40" style="max-width:100%;" title="C#">
@@ -30,6 +24,7 @@
 <img src="https://img.icons8.com/material/452/git.png" height="40" width="40" style="max-width:100%;" title="Git">
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/html5/html5-original.svg" height="40" width="40" style="max-width:100%;" title="HTML 5">
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/css3/css3-original.svg" height="40" width="40" style="max-width:100%;" title="CSS 3">
+<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/r/r-original.svg" height="40" width="40" style="max-width:100%;" title="R">
 </p>
 
 <h3>Contact</h3>
