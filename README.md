@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Welcome to my GitHub :)</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=leovasc5&show_icons=true&theme=radical">
 <h3>Languages and frameworks I use</h3>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg" height="40" width="40" style="max-width:100%;" title="Python">
