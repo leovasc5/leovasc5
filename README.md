@@ -23,7 +23,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original-wordmark.svg" height="40" width="40" style="max-width:100%;" title="MongoDB">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original-wordmark.svg" height="40" width="40" style="max-width:100%;" title="Pandas">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original-wordmark.svg" height="40" width="40" style="max-width:100%;" title="Numpy"><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/matlab/matlab-original.svg" height="40" width="40" style="max-width:100%;" title="MatLab">
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="40" width="40" style="max-width:100%;" title="MySQL Workbench">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" height="40" width="40" style="max-width:100%;" title="Vegas Pro">
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/photoshop/photoshop-line.svg" height="40" width="40" style="max-width:100%;" title="Photoshop">
