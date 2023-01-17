@@ -29,6 +29,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/html5/html5-original.svg" height="40" width="40" style="max-width:100%;" title="HTML 5">
     <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/css3/css3-original.svg" height="40" width="40" style="max-width:100%;" title="CSS 3">
   </p>
+  <!--
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=leovasc5&show_icons=true&theme=radical" width="375">
+  <img src="https://github-readme-stats.vercel.app/api?username=leovasc5&show_icons=true&theme=radical" width="375">-->
  </div>
