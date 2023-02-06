@@ -1,19 +1,19 @@
 <div align="center">
   <h3>Technologies I use</h3>
   <p>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/r/r-original.svg" height="40" width="40" style="max-width:100%;" title="R">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="40" width="40" style="max-width:100%;" title="Java">
       <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="40" width="40" style="max-width:100%;" title="Linux">
       <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="40" style="max-width:100%;" title="AWS">
       <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" height="40" width="40" style="max-width:100%;" title="Azure"> 
     <br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg" height="40" width="40" style="max-width:100%;" title="Python">
     <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-plain.svg" height="40" width="40" style="max-width:100%;" title="JavaScript">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="40" width="40" style="max-width:100%;" title="NodeJS">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="40" width="40" style="max-width:100%;" title="Java">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/r/r-original.svg" height="40" width="40" style="max-width:100%;" title="R">
   </p>
 
   <h3>Extra skills</h3>
   <p>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="40" width="40" style="max-width:100%;" title="NodeJS">
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/django/django-original.svg" height="40" width="40" style="max-width:100%;" title="Django">
     <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/php/php-plain.svg" height="40" width="40" style="max-width:100%;" title="PHP">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="40" width="40" style="max-width:100%;" title="C#">
