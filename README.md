@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/70069239/225681041-08a85a6d-d356-4db5-8be3-a307c104e368.png">
+
+  
   <h3>Technologies I use</h3>
   <p>
       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="40" width="40" style="max-width:100%;" title="Java">
