@@ -11,6 +11,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg" height="40" width="40" style="max-width:100%;" title="Python">
     <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-plain.svg" height="40" width="40" style="max-width:100%;" title="JavaScript">
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="40" width="40" style="max-width:100%;" title="Spring">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" width="40" style="max-width:100%;" title="React">
   </p>
 
   <h3>Extra skills</h3>
