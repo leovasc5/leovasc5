@@ -6,7 +6,7 @@
     <br>
     <img src="https://skillicons.dev/icons?i=linux,aws,mongodb,spring">
   </p>
-
+  <!--
   <h3>Experiências</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=java,js,django">
@@ -16,3 +16,4 @@
     <img src="https://skillicons.dev/icons?i=php,laravel,cs">
   </p>
  </div>
+-->
