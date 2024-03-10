@@ -4,7 +4,7 @@
   <p>
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,python,mongodb,spring">
     <br>
-    <img src="https://skillicons.dev/icons?i=linux,docker,nodejs,sqlite,r">
+    <img src="https://skillicons.dev/icons?i=linux,docker,nodejs,java,r">
   </p>
   <!--
   <h3>Experiências</h3>
