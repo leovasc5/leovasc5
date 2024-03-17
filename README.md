@@ -6,14 +6,6 @@
     <br>
     <img src="https://skillicons.dev/icons?i=linux,docker,nodejs,java,r">
   </p>
-  <!--
-  <h3>Experiências</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=java,js,django">
-    <br>
-    <img src="https://skillicons.dev/icons?i=photoshop,bootstrap,react">
-    <br>
-    <img src="https://skillicons.dev/icons?i=php,laravel,cs">
-  </p>
- </div>
--->
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leovasc5&theme=high-contrast)](https://github.com/leovasc5/github-readme-activity-graph)
+</div>
