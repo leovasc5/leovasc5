@@ -6,6 +6,4 @@
     <br>
     <img src="https://skillicons.dev/icons?i=linux,docker,nodejs,java,r">
   </p>
-
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leovasc5&theme=high-contrast)](https://github.com/leovasc5/github-readme-activity-graph)
 </div>
